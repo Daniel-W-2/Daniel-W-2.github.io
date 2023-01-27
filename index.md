@@ -4,9 +4,10 @@
 
 ### R: 
 
-[University Project - Data Analysis - Crime] (/pdf/Crime_Data_Analysis.pdf)
+[University Project - Data Analysis - Crime](/pdf/Crime_Data_Analysis.pdf)
+<br>
+Skills: Data cleaning, data manipulation, base r visualisation, bind, apply.
 
-(/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -28,7 +29,7 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
+(/sample_page)
 
 
 
