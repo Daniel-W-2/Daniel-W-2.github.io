@@ -7,16 +7,22 @@
 [University Project - Data Analysis - Crime](/pdf/Crime_Data_Analysis.pdf)
 <br>
 Skills: Data cleaning, data manipulation, base r visualisation, bind, apply.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br><br>
+[University Project - Data Analysis - Drugs](/pdf/drugs_data_analysis.pdf)
+<br>
+Skills: tidyverse, data cleaning, ggplot2, loading data, base r visualisation, proportion tables, S3 class summary methods
+<br><br>
+[University Project - Data Analysis - ](/pdf/t20cricket.pdf)
+<br>
+Skills: tidyr, readr, dplyr, ggplot2. loading data, data cleaning, tidyverse, ggplot2, data visualisation, summary statistics, pipes, histograms, SQL in R, custom functions
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
@@ -30,7 +36,7 @@ Skills: Data cleaning, data manipulation, base r visualisation, bind, apply.
 
 ---
 (/sample_page)
-
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 ---
