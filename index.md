@@ -17,6 +17,16 @@ Skills: tidyverse, data cleaning, ggplot2, loading data, base r visualisation, p
 Skills: tidyr, readr, dplyr, ggplot2. loading data, data cleaning, tidyverse, ggplot2, data visualisation, summary statistics, pipes, histograms, SQL in R, custom functions<br><br>
 [University Project - Probability in R](/pdf/probability.pdf)
 Skills: probability, variance, standard deviation, correlation, covariance, random sampling, simulated samples, poisson, expectation, biased estimators
+<br><br>
+[University Project - Hypthesis tests, Statistics](/pdf/hypothesis_tests.pdf)
+Skills: probability, hypothesis tests, probability, data visualisation
+<br><br>
+[University Project - Custom Functions, For loops](/pdf/forloops.pdf)
+Skills: For loops, replications, simulated data, hypothesis testing, simulated data sets
+<br><br>
+[University Project - Statistical Machine Learning](/pdf/clustering.pdf)
+Skills: association rules, clustering, lift, support, confidence, frechet bounds, Calinski-Harabasz index, for loops, kmeans, Silhouettes, class agreements, rand index
+
 
 
 ---
