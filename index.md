@@ -36,7 +36,8 @@ Skills: Random Forest, Logistic Regression, Classification Trees, k fold, traini
 [University Project - More Hypothesis testing](/pdf/hyptest.pdf)<br>
 Skills: Chi Sq, T Test, Paired t test
 
-
+[Personal Project - US Income / Education Data Analysis](/pdf/US Counties - Income, Education Analysis.pdf)
+Skills: ggplot2, data cleaning, dplyr, tidyverse, summary statistics, filtering, group by, summarize, facet wrapping, joining data
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
