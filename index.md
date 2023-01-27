@@ -12,9 +12,12 @@ Skills: Data cleaning, data manipulation, base r visualisation, bind, apply.
 <br>
 Skills: tidyverse, data cleaning, ggplot2, loading data, base r visualisation, proportion tables, S3 class summary methods
 <br><br>
-[University Project - Data Analysis - ](/pdf/t20cricket.pdf)
+[University Project - Data Analysis - t20 Cricket ](/pdf/t20cricket.pdf)
 <br>
-Skills: tidyr, readr, dplyr, ggplot2. loading data, data cleaning, tidyverse, ggplot2, data visualisation, summary statistics, pipes, histograms, SQL in R, custom functions
+Skills: tidyr, readr, dplyr, ggplot2. loading data, data cleaning, tidyverse, ggplot2, data visualisation, summary statistics, pipes, histograms, SQL in R, custom functions<br><br>
+[University Project - Probability in R](/pdf/probability.pdf)
+Skills: probability, variance, standard deviation, correlation, covariance, random sampling, simulated samples, poisson, expectation, biased estimators
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
