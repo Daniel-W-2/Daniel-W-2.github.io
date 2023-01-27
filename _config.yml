@@ -1,11 +1,22 @@
 title: Daniel Williams # your name (or website title) here
 logo: "/images/UCD.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Welcome to an overview of my data analytics / data science projects to date.  
   <br><br>
-  Second description 
+  Qualifications to date: 
+  University of Warwick - BSc Physics - 1st Class
+  University College Dublin - Prof Dip Data Analytics
+  Google Data Analytics Certificate
+  Data Camp - R Data Analyst
+  Data Camp - SQL Fundamentals
+  Data Camp - Python Fundamentals
+  Data Camp - Tableau Fundamentals
+  IASSC - Lean Six Sigma Green Belt
+  Prince2 Project Management - Practitioner
+  Prince2 Project Management - Foundation
+  Scotwork - Advanced Negotiation
   <br><br>
-  <a href="https://www.linkedin.com/in/danieljwilliams5/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/danieljwilliams5/"> View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
