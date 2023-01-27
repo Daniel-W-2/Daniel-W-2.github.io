@@ -24,8 +24,17 @@ Skills: probability, hypothesis tests, probability, data visualisation
 [University Project - Custom Functions, For loops](/pdf/forloops.pdf)
 Skills: For loops, replications, simulated data, hypothesis testing, simulated data sets
 <br><br>
-[University Project - Statistical Machine Learning](/pdf/clustering.pdf)
+[University Project - Association Rules / Clustering](/pdf/clustering.pdf)
 Skills: association rules, clustering, lift, support, confidence, frechet bounds, Calinski-Harabasz index, for loops, kmeans, Silhouettes, class agreements, rand index
+<br><br>
+[University Project - Logistic regression / Classification Trees](/pdf/logres.pdf)
+Skills: logistic regression, classification trees
+<br><br>
+[University Project - Random Forest, Logistic Regression, Classification Trees](/pdf/rf.pdf)
+Skills: Random Forest, Logistic Regression, Classification Trees, k fold, training data, test data, 
+<br><br>
+[University Project - More Hypothesis testing](/pdf/hyptest.pdf)
+Skills: Chi Sq, T Test, Paired t test
 
 
 
