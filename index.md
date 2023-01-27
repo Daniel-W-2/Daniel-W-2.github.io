@@ -2,9 +2,11 @@
 
 ---
 
-### Category Name 1 
+### R: 
 
-[Project 1 Title](/sample_page)
+[University Project - Data Analysis - Crime] (/pdf/Crime_Data_Analysis.pdf)
+
+(/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
