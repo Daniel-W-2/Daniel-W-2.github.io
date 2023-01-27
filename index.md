@@ -40,15 +40,15 @@ Skills: Chi Sq, T Test, Paired t test
 Skills: ggplot2, data cleaning, dplyr, tidyverse, summary statistics, filtering, group by, summarize, facet wrapping, joining data
 <br><br>
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-
+### SQL 
+<br><br>
+[Simple SQL Code](/pdf/simpleSQL.pdf)<br>
+Skills: SELECT, FROM, WHERE, HAVING, AGGREGATE FUNCTIONS, SUMMARY STATISTICS, JOINING DATA, ORDER BY, LIMIT
+<br><br>
 
 ---
 [Project 3 Title](http://example.com/)
-
-
 ---
-
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
