@@ -45,8 +45,14 @@ Skills: ggplot2, data cleaning, dplyr, tidyverse, summary statistics, filtering,
 [Simple SQL Code](/pdf/simpleSQL.pdf)<br>
 Skills: SELECT, FROM, WHERE, HAVING, AGGREGATE FUNCTIONS, SUMMARY STATISTICS, JOINING DATA, ORDER BY, LIMIT
 <br><br>
+--- 
+<br><br>
+### Python
+[Shipping Data Analysis](/pdf/Python_Shipping.py)<br>
+Skills: Numpy, Pandas, Matplotlib, custom functions, lambda functions, loops.
+<br><br><br><br>
 
----
+
 [Project 3 Title](http://example.com/)
 ---
 ### Category Name 2
