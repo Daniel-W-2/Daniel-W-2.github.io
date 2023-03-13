@@ -50,7 +50,8 @@ Skills: SELECT, FROM, WHERE, HAVING, AGGREGATE FUNCTIONS, SUMMARY STATISTICS, JO
 ### Python
 [Shipping Data Analysis](/pdf/Python_Shipping.py)<br>
 Skills: Numpy, Pandas, Matplotlib, custom functions, lambda functions, loops.
-<br><br><br><br>
+<br><br>
+<br><br>
 
 
 [Project 3 Title](http://example.com/)
