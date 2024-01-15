@@ -1,12 +1,3 @@
-****git checkout master
-git pull
-git checkout <branch>
-git merge master
-[ ... resolve any conflicts ... ]
-git add [files that were conflicted]
-git commit
-git push****
-
 ## Portfolio
 
 ---
@@ -57,9 +48,6 @@ Skills: SELECT, FROM, WHERE, HAVING, AGGREGATE FUNCTIONS, SUMMARY STATISTICS, JO
 --- 
 <br><br>
 ### Python
-[KNN Classifier - Predicting a late parcel](/pdf/KNN_Classifier.py)<br>
-Skills: sklearn, machine learning, KNN
-<br><br>
 [Shipping Data Analysis](/pdf/Python_Shipping.py)<br>
 Skills: Numpy, Pandas, Matplotlib, custom functions, lambda functions, loops.
 <br><br>
