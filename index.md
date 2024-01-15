@@ -48,6 +48,11 @@ Skills: SELECT, FROM, WHERE, HAVING, AGGREGATE FUNCTIONS, SUMMARY STATISTICS, JO
 --- 
 <br><br>
 ### Python
+[KNN Classifier](/pdf/parcellate.py)<br>
+Skills: scikit learn, KNN, Machine learning
+<br><br>
+<br><br>
+
 [Shipping Data Analysis](/pdf/Python_Shipping.py)<br>
 Skills: Numpy, Pandas, Matplotlib, custom functions, lambda functions, loops.
 <br><br>
