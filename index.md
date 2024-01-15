@@ -52,7 +52,10 @@ Skills: SELECT, FROM, WHERE, HAVING, AGGREGATE FUNCTIONS, SUMMARY STATISTICS, JO
 Skills: Numpy, Pandas, Matplotlib, custom functions, lambda functions, loops.
 <br><br>
 [KNN Classifier - Predicting a late parcel](/pdf/KNN_Classifier.py)<br>
+Skills: sklearn, machine learning, KNN
 <br><br>
+<br><br>
+---
 <br><br>
 
 
